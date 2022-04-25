@@ -1,5 +1,8 @@
 # Debian-9-Pakete
-Nützliche Debian 9 Pakete
+Nützliche Debian 9 Pakete, die Ihnen das Kompilieren ersparen.
+
+1) Postgresql-XL 1 0alpha2
+2) Monotone(mtn csv) ...kommt bald
 
 If you like my effort you can send me something to encourage me to do more and better things:
 
